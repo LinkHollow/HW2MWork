@@ -15,11 +15,11 @@
 `camel`  
 `donkey`  
 Проверяем содержимое корневого каталога командой ls  
-`ls`
+`ls`  
 ![1.png](screenshot%2F1.png)  
 Объединяем два файла в один и записываем данные в файл HumanFriends:  
 `cat Pets PackAnimals >HumanFriends.txt`  
-`ls`
+`ls`  
 ![2.png](screenshot%2F2.png)  
 Проверим содержимое файла:  
 ![3.png](screenshot%2F3.png)  
